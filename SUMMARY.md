@@ -11,7 +11,7 @@
 ## 设定 <a id="set"></a>
 
 * [🏷️ 头衔](set/prefix/README.md)
-  * [正版](set/prefix/zheng-ban.md)
+  * [正版](set/prefix/genuine.md)
   * [老玩家](set/prefix/lao-wan-jia.md)
   * [建筑师](set/prefix/jian-zhu-shi-xi-lie.md)
   * [劳动节](set/prefix/lao-dong-jie-xi-lie.md)
