@@ -18,7 +18,7 @@ description: 服务器背后的人们
 | :---: | :--- |
 | ![](../.gitbook/assets/bittertrue_jing.png) bitterture\_jing |  |
 | ![](../.gitbook/assets/Bocai_BCA.png) Bocai\_BCA |  |
-| ![](../.gitbook/assets/imsalze.png) Im Salze |  |
+| ![](../.gitbook/assets/imsalze.png) imsalze |  |
 | ![](../.gitbook/assets/Xiao_Xiao_Long.png) Xiao\_Xiao\_Long |  |
 | ![](../.gitbook/assets/You_Ran_Gracias.png) You\_Ran\_Gracias |  |
 {% endtab %}
