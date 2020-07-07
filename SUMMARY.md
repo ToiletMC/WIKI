@@ -23,14 +23,14 @@
   * [粘液科技](guidebook/feature/slimefun4.md)
   * [魔法](guidebook/feature/magic.md)
   * [酿酒](guidebook/feature/brewery.md)
-* [🐾随身伙伴](guidebook/companions.md)
+* [🐾随行伙伴](guidebook/companions.md)
 * [🎮 小游戏](guidebook/game.md)
 
 ## 运营 <a id="operation"></a>
 
 * [🛠️ 更新记录](operation/changelogs/README.md)
   * [2020年](operation/changelogs/2020.md)
-* [💸 盈收状况](operation/revenue/README.md)
+* [💸 收支明细](operation/revenue/README.md)
   * [2020年](operation/revenue/2020.md)
   * [2019年](operation/revenue/2019.md)
 * [🧻 关于](operation/about.md)
