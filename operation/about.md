@@ -8,7 +8,7 @@ description: 服务器背后的人们
 
 |                                                              |      |
 | :----------------------------------------------------------: | ---- |
-| <img src="../.gitbook/assets/thelittle_yang.png" style="zoom:50%;" /> |      |
+| <img src="../.gitbook/assets/imsalze.png" style="zoom:50%;" /> |      |
 
 
 
