@@ -7,6 +7,6 @@ description: 购买了Minecraft？这是一个小赠品！
 ![](../../.gitbook/assets/zb.png)
 
 {% hint style="info" %}
-使用 /premium 把自己标记为正版玩家，然后等待管理员发放称号。
+请使用 /premium 把自己标记为正版玩家，然后等待管理员发放称号。
 {% endhint %}
 
