@@ -26,7 +26,7 @@ description: 服务器背后的人们
 | 画像 | 贡献 |
 | :---: | :--- |
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Bocai_BCA.png) Bocai\_BCA |  |
-| ![](http://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/YuLong.png) YuLong |  |
+| ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/YuLong.png) YuLong |  |
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Xiao_Long.png) Xiao\_Xiao\_Long |  |
 {% endtab %}
 {% endtabs %}
