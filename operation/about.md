@@ -4,13 +4,17 @@ description: 服务器背后的人们
 
 # 🧻 关于
 
+{% tabs %}
+{% tab title="管理组" %}
 
+{% endtab %}
 
-|                                                              |      |
-| :----------------------------------------------------------: | ---- |
-| <img src="../.gitbook/assets/imsalze.png" style="zoom:50%;" /> |      |
-
-
+{% tab title="贡献者" %}
+|  |  |
+| :---: | :--- |
+| ![](../.gitbook/assets/imsalze.png) |  |
+{% endtab %}
+{% endtabs %}
 
 ## 友邻服务器
 
@@ -19,6 +23,4 @@ description: 服务器背后的人们
 ```text
 play.mclzyun.com
 ```
-
-
 
