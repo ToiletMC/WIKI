@@ -7,6 +7,12 @@ description: 服务器背后的人们
 {% tabs %}
 {% tab title="管理组" %}
 
+|                           画像                           | 职位 |
+| :------------------------------------------------------: | :--: |
+| ![TheLittle_Yang](../.gitbook/assets/thelittle_yang.png) |      |
+|           ![](../.gitbook/assets/TSUYYYY.png)            |      |
+|                                                          |      |
+
 {% endtab %}
 
 {% tab title="贡献者" %}
