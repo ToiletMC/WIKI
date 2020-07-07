@@ -60,25 +60,159 @@ description: 小酒馆里充满了笑声和响亮的音乐，而醉汉们在街�
 
 为了方便各位酒鬼，和魔法一样，我们也从官方摘录了配方，请享用。
 
-| 配方 | 原料 | 发酵时间 | 蒸馏 | 陈置/木种 |
-| :---: | :---: | :---: | :---: | :---: |
-| 啤酒 | 6 小麦 | 8 分钟 | × | 3 年/任何 |
-| Wheatbeer | 3 小麦 | 8 分钟 | × | 2 年/白桦 |
-| Darkbeer | 6 小麦 | 8 分钟 | × | 3 times Beer Dark Oak |
-| Red Wine | 5 Sweet Berries | 5 分钟 | × | Very Long Any |
-| Mead | 6 Sugar Cane | 3 分钟 | × | 4 Years Oak |
-| Apple Mead | 6 Sugar Cane Apple | Similar to Mead | × | 4 Years Oak |
-| Apple Cider | Lots of Apple | 7/8 分钟 | × | 3 Years Any |
-| Apple Liquor | Lots of Apple | 稍久 | √ | 6 Years Acacia |
-| Whiskey | Wheat | 一个小麦一分钟 | √ | Very Long darker |
-| Rum | Lots of Sugar Cane | 稍短 | √ | Long Oak |
-| Vodka | A Sixth of a Stack Potatoes | 稍久 | √ | No |
-| Mushroom Vodka | Potatoes, Mushrooms | 很久 | √ | No |
-| Gin | 9 Wheat Some blue -flowers Apple | 稍短 | √ | No |
-| Tequila | Some Cactus | 稍久 | √ | Long Birch |
-| Absinthe | Lots of Grass | 稍久 | √ | No |
-| Green Absinthe | Lots of Grass Another Greenish thing | 如常 | √ | No |
-| Potato Soup | 5 Potatoes Some Grass | 稍短 | × | No |
-| Coffee | Lots of Cocoa Beans 2 Milk Buckets | 稍短 | × | No |
-| Eggnog | 5 Eggs A little sugar 1 Milk Bucket | 稍短 | × | Short Any |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">&#x914D;&#x65B9;</th>
+      <th style="text-align:center">&#x539F;&#x6599;</th>
+      <th style="text-align:center">&#x53D1;&#x9175;&#x65F6;&#x95F4;</th>
+      <th style="text-align:center">&#x84B8;&#x998F;</th>
+      <th style="text-align:center">&#x9648;&#x7F6E;/&#x6728;&#x79CD;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">&#x5564;&#x9152;</td>
+      <td style="text-align:center">6 &#x5C0F;&#x9EA6;</td>
+      <td style="text-align:center">8 &#x5206;&#x949F;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">3 &#x5E74;/&#x4EFB;&#x4F55;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x9EA6;&#x9152;</td>
+      <td style="text-align:center">3 &#x5C0F;&#x9EA6;</td>
+      <td style="text-align:center">8 &#x5206;&#x949F;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">2 &#x5E74;/&#x767D;&#x6866;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x9ED1;&#x5564;</td>
+      <td style="text-align:center">6 &#x5C0F;&#x9EA6;</td>
+      <td style="text-align:center">8 &#x5206;&#x949F;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">&#x5564;&#x9152;&#x7684;&#x4E09;&#x500D;/
+        <br />&#x9ED1;&#x6A61;&#x6728;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x7EA2;&#x9152;</td>
+      <td style="text-align:center">5 &#x751C;&#x6D46;&#x679C;</td>
+      <td style="text-align:center">5 &#x5206;&#x949F;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">&#x5F88;&#x4E45;/&#x4EFB;&#x4F55;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x8702;&#x871C;&#x9152;</td>
+      <td style="text-align:center">6 &#x7518;&#x8517;</td>
+      <td style="text-align:center">3 &#x5206;&#x949F;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">4 &#x5E74;/&#x6A61;&#x6728;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x82F9;&#x679C;&#x8702;&#x871C;&#x9152;</td>
+      <td style="text-align:center">6 &#x7518;&#x8517;&#x3001;1 &#x82F9;&#x679C;</td>
+      <td style="text-align:center">&#x548C;&#x871C;&#x9152;&#x76F8;&#x4F3C;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">4 &#x5E74;/&#x6A61;&#x6728;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x82F9;&#x679C;&#x9152;</td>
+      <td style="text-align:center">&#x4E00;&#x4E9B;&#x82F9;&#x679C;</td>
+      <td style="text-align:center">7/8 &#x5206;&#x949F;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">3 &#x5E74;/&#x4EFB;&#x4F55;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x82F9;&#x679C;&#x84B8;&#x998F;&#x9152;</td>
+      <td style="text-align:center">&#x4E00;&#x4E9B;&#x82F9;&#x679C;</td>
+      <td style="text-align:center">&#x4E45;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">6 &#x5E74;/&#x91D1;&#x5408;&#x6B22;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x5A01;&#x58EB;&#x5FCC;</td>
+      <td style="text-align:center">&#x5C0F;&#x9EA6;</td>
+      <td style="text-align:center">&#x4E00;&#x4E2A;&#x5C0F;&#x9EA6;&#x4E00;&#x5206;&#x949F;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">
+        <p>&#x5F88;&#x4E45;/</p>
+        <p>&#x6BD4;&#x91D1;&#x5408;&#x6B22;&#x7A0D;&#x6697;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x6717;&#x59C6;&#x9152;</td>
+      <td style="text-align:center">&#x4E00;&#x4E9B;&#x7518;&#x8517;</td>
+      <td style="text-align:center">&#x77ED;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">&#x4E45;/&#x6A61;&#x6728;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x4F0F;&#x7279;&#x52A0;</td>
+      <td style="text-align:center">10 &#x571F;&#x8C46;</td>
+      <td style="text-align:center">&#x4E45;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">&#x65E0;&#x9700;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x8611;&#x83C7;&#x4F0F;&#x7279;&#x52A0;</td>
+      <td style="text-align:center">&#x571F;&#x8C46;&#x548C;&#x8611;&#x83C7;</td>
+      <td style="text-align:center">&#x5F88;&#x4E45;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">&#x65E0;&#x9700;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x675C;&#x677E;&#x5B50;&#x9152;</td>
+      <td style="text-align:center">9 &#x5C0F;&#x9EA6;&#x3001;&#x4E00;&#x4E9B;&#x84DD;&#x82B1;</td>
+      <td style="text-align:center">&#x77ED;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">&#x65E0;&#x9700;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x9F99;&#x820C;&#x5170;</td>
+      <td style="text-align:center">&#x4E00;&#x4E9B;&#x4ED9;&#x4EBA;&#x638C;</td>
+      <td style="text-align:center">&#x4E45;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">&#x4E45;/&#x6866;&#x6728;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x82E6;&#x827E;&#x9152;</td>
+      <td style="text-align:center">&#x4E00;&#x4E9B;&#x8349;</td>
+      <td style="text-align:center">&#x4E45;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">&#x65E0;&#x9700;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x7EFF;&#x82E6;&#x827E;&#x9152;</td>
+      <td style="text-align:center">
+        <p>&#x4E00;&#x4E9B;&#x8349;&#x548C;</p>
+        <p>&#x53E6;&#x4E00;&#x79CD;&#x7EFF;&#x7684;&#x4E1C;&#x897F;</p>
+      </td>
+      <td style="text-align:center">&#x5982;&#x5E38;</td>
+      <td style="text-align:center">&#x221A;</td>
+      <td style="text-align:center">&#x65E0;&#x9700;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x571F;&#x8C46;&#x6C64;</td>
+      <td style="text-align:center">5 &#x571F;&#x8C46;&#x3001;&#x4E00;&#x4E9B;&#x8349;</td>
+      <td style="text-align:center">&#x77ED;</td>
+      <td style="text-align:center">&#xD7;</td>
+      <td style="text-align:center">&#x65E0;&#x9700;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x5496;&#x5561;</td>
+      <td style="text-align:center">&#x4E00;&#x4E9B;&#x53EF;&#x53EF;&#x8C46;&#x3001;2 &#x6876;&#x725B;&#x5976;</td>
+      <td
+      style="text-align:center">&#x77ED;</td>
+        <td style="text-align:center">&#xD7;</td>
+        <td style="text-align:center">&#x65E0;&#x9700;</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">&#x86CB;&#x5976;&#x9152;</td>
+      <td style="text-align:center">5 &#x9E21;&#x86CB;&#x3001;&#x4E00;&#x70B9;&#x7CD6;&#x3001;1 &#x6876;&#x725B;&#x5976;</td>
+      <td
+      style="text-align:center">&#x77ED;</td>
+        <td style="text-align:center">&#xD7;</td>
+        <td style="text-align:center">&#x77ED;/&#x4EFB;&#x4F55;</td>
+    </tr>
+  </tbody>
+</table>
 
