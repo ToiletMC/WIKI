@@ -24,7 +24,7 @@
   * [魔法](guidebook/feature/magic.md)
   * [酿酒](guidebook/feature/brewery.md)
 * [🐾随身伙伴](guidebook/companions.md)
-* [🎮 小游戏](guidebook/game.md)
+## [🎮 小游戏](guidebook/game.md)
 
 ## 运营 <a id="operation"></a>
 
