@@ -12,9 +12,9 @@
 
 * [🏷️ 头衔](set/prefix/README.md)
   * [正版](set/prefix/genuine.md)
-  * [老玩家](set/prefix/lao-wan-jia.md)
-  * [建筑师](set/prefix/jian-zhu-shi-xi-lie.md)
-  * [劳动节](set/prefix/lao-dong-jie-xi-lie.md)
+  * [老玩家](set/prefix/hardcore.md)
+  * [建筑师](set/prefix/architect.md)
+  * [劳动节](set/prefix/labor-day.md)
 * [💎 Pro](set/pro.md)
 
 ## 指北 <a id="guidebook"></a>
