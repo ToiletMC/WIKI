@@ -21,7 +21,6 @@ description: 服务器背后的人们
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Prays.png) <br />Prays |  |
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Xiao_Long.png)<br />Xiao\_Xiao\_Long |  |
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/You_Ran_Gracias.png)<br />You\_Ran\_Gracias |  |
-|  |  |
 {% endtab %}
 
 {% tab title="退休人员" %}
