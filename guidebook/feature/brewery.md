@@ -25,7 +25,7 @@ description: 小酒馆里充满了笑声和响亮的音乐，而醉汉们在街�
 1. 将带有发酵物的玻璃瓶放入酿造台中
 2. 将萤石粉作为催化剂放到最上面（蒸馏时不会消耗催化剂）
 
-![](../../.gitbook/assets/2.png)
+![TheLittle\_Yang](../../.gitbook/assets/2.png)
 
 ### 陈酿
 
