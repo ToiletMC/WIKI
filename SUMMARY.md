@@ -33,8 +33,7 @@
 * [💸 收支明细](operation/revenue/README.md)
   * [2020年](operation/revenue/2020.md)
   * [2019年](operation/revenue/2019.md)
-* [🧻 关于](operation/about/README.md)
-  * [test](operation/about/test.md)
+* [🧻 关于](operation/about.md)
 
 ---
 
