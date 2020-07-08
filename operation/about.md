@@ -7,17 +7,12 @@ description: 服务器背后的人们
 {% tabs %}
 {% tab title="管理组" %}
 
-<table>
-	  <tr>
-<td>![TheLillte\_Yang](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png)</td>
-	  </tr>
-	  <tr>
-<td>![Xiao\_Wind](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Wind.png)</td>
-	  </tr>
-	  <tr>
-<td>![TSUYYYY](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png)</td>
-	</tr>
-</table>
+![TheLillte\_Yang](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png)
+
+![Xiao\_Wind](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Wind.png)
+
+![TSUYYYY](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png)
+
 {% endtab %}
 
 {% tab title="贡献者" %}
