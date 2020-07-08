@@ -9,7 +9,7 @@ description: 服务器背后的人们
 | 画像 | 介绍 |
 | :---: | :--- |
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png) | 腐竹 |
-| TheLittle\_Yang | 1 |
+| TheLittle\_Yang |  |
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Wind.png) | 沙袋 |
 | Xiao\_Wind |  |
 | ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png) | 腐竹孪生兄弟 |
