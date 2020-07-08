@@ -6,11 +6,13 @@ description: 服务器背后的人们
 
 {% tabs %}
 {% tab title="管理组" %}
-| 画像 | 介绍 |
-| :---: | :--- |
-| ![TheLillte\_Yang](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png) | 腐竹 |
-| ![Xiao\_Wind](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Wind.png) Xiao\_Wind | 沙袋 |
-| ![TSUYYYY](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png) TSUYYYY | 腐竹孪生兄弟 |
+
+![TheLillte\_Yang](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png)
+
+![Xiao\_Wind](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Wind.png)
+
+![TSUYYYY](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/TSUYYYY.png)
+
 {% endtab %}
 
 {% tab title="贡献者" %}
