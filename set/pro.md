@@ -54,17 +54,17 @@
 
 除上述权益之外，你还可享有以下额外权益。
 
-| 增强项 | 备注 |
+| 项目 | 指令与升级 |
 | :--- | :--- |
-| 整理快捷键设置 | /chestsort hotkeys |
-| 箱子整理 | /sort |
-| 背包整理 | /invsort |
-| 物品栏整理 | /isort hotbar |
-| 背包和物品栏整理 | /isort all |
-| 赠送飞行时间 | /tf pay |
-| 席地而坐 | /sit |
-| 命令工作台 | /workbench |
-| 方块头上戴 | /hat |
+| 整理快捷键设置 | `/chestsort hotkeys` |
+| 箱子整理 | `/sort` |
+| 背包整理 | `/invsort` |
+| 物品栏整理 | `/isort hotbar` |
+| 背包和物品栏整理 | `/isort all` |
+| 赠送飞行时间 | `/tf pay` |
+| 席地而坐 | `/sit` |
+| 命令工作台 | `/workbench` |
+| 方块头上戴 | `/hat` |
 | 更多的家 | 5 → 10 |
 | 更多的城镇 | 5 → 10 |
 
