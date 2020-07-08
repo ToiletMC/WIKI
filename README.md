@@ -20,4 +20,5 @@ play.toiletmc.net
 
 * QQ群：[720737548](https://jq.qq.com/?_wv=1027&k=0Nb6gZfJ)
 * Discord：[https://discord.gg/dctX8ZQ](https://discord.gg/dctX8ZQ)
+* 邮件：issue@toiletmc.net
 
