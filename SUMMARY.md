@@ -1,6 +1,7 @@
 # Table of contents
 
 * [首页](README.md)
+* [新手帮助](help.md)
 
 ## 这里开始 <a id="start"></a>
 
@@ -20,8 +21,8 @@
 ## 指北 <a id="guidebook"></a>
 
 * [🚩 趣味特性](guidebook/feature/README.md)
-  * [粘液科技](guidebook/feature/slimefun4.md)
   * [随行伙伴](guidebook/feature/companions.md)
+  * [粘液科技](guidebook/feature/slimefun4.md)
   * [魔法](guidebook/feature/magic.md)
   * [酿酒](guidebook/feature/brewery.md)
 * [🎮 小游戏](guidebook/game.md)
