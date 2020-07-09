@@ -21,9 +21,9 @@
 
 * [🚩 趣味特性](guidebook/feature/README.md)
   * [粘液科技](guidebook/feature/slimefun4.md)
+  * [随行伙伴](guidebook/feature/companions.md)
   * [魔法](guidebook/feature/magic.md)
   * [酿酒](guidebook/feature/brewery.md)
-* [🐾随行伙伴](guidebook/companions.md)
 * [🎮 小游戏](guidebook/game.md)
 
 ## 运营 <a id="operation"></a>
