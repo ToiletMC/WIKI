@@ -23,7 +23,7 @@ description: 常用的服务器指令都在这里
 * `/list`在线者一览
 * `/baltop` 马桶币排行榜
 
-## 领地指令
+## 更多指令
 
-* `/lands invite`同意领地加入邀请
+服务器更多指令请参阅[插件说明](../guidebook/plugins/)页面。
 
