@@ -6,11 +6,21 @@
 
 ## 服务器地址
 
+### Minecraft：JAVA版服务器地址：
+
 ```text
 play.toiletmc.net
 ```
 
+### Minecraft：基岩版服务器地址：
+
+```text
+be.toiletmc.net:20245
+```
+
+{% hint style="info" %}
 如果你是第一次来到厕所总部或者并不熟知服务器的生存内容，请参阅 [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com/教程)
+{% endhint %}
 
 ## 请求支援
 
