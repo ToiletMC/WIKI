@@ -1,3 +1,7 @@
+---
+description: 欢迎来到一个奇怪的Minecraft服务器
+---
+
 # 首页
 
 **服务器皮肤站开放中，**[**点击注册**](https://www.toiletmc.net/)
@@ -6,13 +10,13 @@
 
 ## 服务器地址
 
-### Minecraft：JAVA版进入服务器地址：
+### JAVA版地址
 
 ```text
 play.toiletmc.net
 ```
 
-### Minecraft：基岩版进入服务器地址：
+### 基岩版地址
 
 ```text
 be.toiletmc.net:20245
