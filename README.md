@@ -6,13 +6,13 @@
 
 ## 服务器地址
 
-### Minecraft：JAVA版服务器地址：
+### Minecraft：JAVA版进入服务器地址：
 
 ```text
 play.toiletmc.net
 ```
 
-### Minecraft：基岩版服务器地址：
+### Minecraft：基岩版进入服务器地址：
 
 ```text
 be.toiletmc.net:20245
