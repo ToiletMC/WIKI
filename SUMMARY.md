@@ -28,6 +28,7 @@
 * [🔌 插件说明](guidebook/plugins/README.md)
   * [领地插件](guidebook/plugins/ling-di-cha-jian.md)
   * [婚姻插件](guidebook/plugins/hun-yin-cha-jian.md)
+  * [箱子商店](guidebook/plugins/xiang-zi-shang-dian.md)
 * [🎮 小游戏](guidebook/game.md)
 
 ## 运营 <a id="operation"></a>
