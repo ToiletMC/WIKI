@@ -1,5 +1,5 @@
 ---
-description: 欢迎来到一个奇怪的Minecraft服务器
+description: 欢迎来到一个奇怪的 Minecraft 服务器
 ---
 
 # 首页
@@ -10,13 +10,13 @@ description: 欢迎来到一个奇怪的Minecraft服务器
 
 ## 服务器地址
 
-### JAVA版地址
+### JAVA版
 
 ```text
 play.toiletmc.net
 ```
 
-### 基岩版地址
+### 基岩版
 
 ```text
 be.toiletmc.net:20245
@@ -35,4 +35,10 @@ be.toiletmc.net:20245
 * QQ群：[720737548](https://jq.qq.com/?_wv=1027&k=0Nb6gZfJ)
 * Discord：[https://discord.gg/dctX8ZQ](https://discord.gg/dctX8ZQ)
 * 邮件：[issue@toiletmc.net](mailto:issue@toiletmc.net)
+
+{% hint style="warning" %}
+### 如果你需要直接提交游戏中的 Bug 请点击下面的链接提交。
+
+[https://github.com/ToiletMC/Issues](https://github.com/ToiletMC/Issues)
+{% endhint %}
 
