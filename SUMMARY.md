@@ -1,13 +1,12 @@
 # Table of contents
 
 * [首页](README.md)
-* [新手帮助](help.md)
 
 ## 这里开始 <a id="start"></a>
 
 * [📜 服务器规则](start/rules.md)
-* [⌨️ 常用指令](start/cmd.md)
 * [❓ 常见问题](start/faq.md)
+* [⌨️ 常用指令](start/cmd.md)
 
 ## 设定 <a id="set"></a>
 
