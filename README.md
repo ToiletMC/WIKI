@@ -4,11 +4,13 @@ description: 欢迎来到一个奇怪的 Minecraft 服务器
 
 # 首页
 
-**服务器皮肤站开放中，**[**点击注册**](https://www.toiletmc.net/)
+如果你是第一次来到厕所总部或者并不熟知服务器的生存内容，请参阅 [Minevraft 中文Wiki](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B)
 
-服务器版本：[PaperSpigot](https://papermc.io/) 1.16.1 **无正版验证**
+**服务器皮肤站开放中，**[**点击注册**](https://www.toiletmc.net/)\*\*\*\*
 
 ## 服务器地址
+
+服务器版本：[PaperSpigot](https://papermc.io/) 1.16.1 **无正版验证**
 
 ### JAVA版
 
@@ -21,10 +23,6 @@ play.toiletmc.net
 ```text
 be.toiletmc.net:20245
 ```
-
-{% hint style="info" %}
-如果你是第一次来到厕所总部或者并不熟知服务器的生存内容，请参阅 [Minecraft 中文 Wiki](http://minecraft-zh.gamepedia.com/教程)
-{% endhint %}
 
 ## 请求支援
 
