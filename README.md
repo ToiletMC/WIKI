@@ -2,7 +2,7 @@
 
 **服务器皮肤站开放中，**[**点击注册**](https://www.toiletmc.net/)
 
-服务器版本：[PaperSpigot](https://papermc.io/) 1.15.2 **无正版验证**
+服务器版本：[PaperSpigot](https://papermc.io/) 1.16.1 **无正版验证**
 
 ## 服务器地址
 
