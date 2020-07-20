@@ -23,43 +23,13 @@ description: 服务器背后的人们
 {% endtab %}
 
 {% tab title="退休人员" %}
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:center">&#x753B;&#x50CF;</th>
-      <th style="text-align:left">&#x8D21;&#x732E;</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:center">
-        <img src="https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Bocai_BCA.png"
-        alt/>
-        <br />Bocai_BCA</td>
-      <td style="text-align:left">&#x670D;&#x52A1;&#x5668;&#x524D;&#x671F;&#x5927;&#x529B;&#x652F;&#x6301;&#x670D;&#x52A1;&#x5668;
-        <br
-        />&#x4E5F;&#x5E2E;&#x5FD9;&#x8BBE;&#x8BA1;&#x8FC7;&#x4E00;&#x4E9B;&#x4E1C;&#x897F;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Xiao_Long.png"
-        alt/>
-        <br />Xiao_Xiao_Long</td>
-      <td style="text-align:left">&#x6211;&#x662F;&#x8C01;&#xFF1F;&#x6211;&#x5728;&#x54EA;</td>
-    </tr>
-    <tr>
-      <td style="text-align:center">
-        <img src="https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/YuLong.png"
-        alt/>
-        <br />YuLong</td>
-      <td style="text-align:left">
-        <p>&#x670D;&#x52A1;&#x5668;&#x524D;&#x671F;&#x5E2E;&#x5FD9;&#x7BA1;&#x7406;</p>
-        <p>&#x5E2E;&#x5FD9;&#x5EFA;&#x9020;&#x4E3B;&#x57CE;
-          <br />&#x540C;&#x65F6;&#x4E5F;&#x662F;&#x5BA1;&#x6838;&#x5EFA;&#x7B51;&#x7684;&#x7BA1;&#x7406;&#xFF01;</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
+|                             画像                             | 贡献                                                       |
+| :----------------------------------------------------------: | :--------------------------------------------------------- |
+| ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Bocai_BCA.png)<br />Bocai_BCA | 服务器前期大力支持服务器<br />也帮忙设计过一些东西         |
+| ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/Xiao_Xiao_Long.png)<br />Xiao_Xiao_Long | 我是谁？我在哪？                                           |
+| ![](https://kehuduan2019.oss-cn-shanghai.aliyuncs.com/faces/YuLong.png)<br />YuLong | 前建筑审核<br />服务器前期帮忙管理服务器<br />帮忙建造主城 |
+
 {% endtab %}
 {% endtabs %}
 
