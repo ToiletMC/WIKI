@@ -6,7 +6,7 @@ description: 欢迎来到一个奇怪的 Minecraft 服务器
 
 如果你是第一次来到厕所总部或者并不熟知服务器的生存内容，请参阅 [Minecraft 中文Wiki](https://minecraft-zh.gamepedia.com/%E6%95%99%E7%A8%8B)
 
-**服务器皮肤站开放中，**[**点击注册**](https://www.toiletmc.net/)\*\*\*\*
+**服务器皮肤站开放中，**[**点击注册**](https://www.toiletmc.net/)
 
 ## 服务器地址
 
@@ -43,6 +43,7 @@ be.toiletmc.net:20245
 * 邮件：[issue@toiletmc.net](mailto:issue@toiletmc.net)
 
 {% hint style="warning" %}
+
 ### 如果你需要直接提交游戏中的 Bug 请点击下面的链接提交。
 
 [https://github.com/ToiletMC/Issues](https://github.com/ToiletMC/Issues)

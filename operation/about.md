@@ -1,5 +1,5 @@
 ---
-description: 服务器背后的人们儿
+description: 服务器背后的人们
 ---
 
 # 🧻 关于
