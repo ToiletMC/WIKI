@@ -43,7 +43,6 @@ be.toiletmc.net:20245
 * 邮件：[issue@toiletmc.net](mailto:issue@toiletmc.net)
 
 {% hint style="warning" %}
-
 ### 如果你需要直接提交游戏中的 Bug 请点击下面的链接提交。
 
 [https://github.com/ToiletMC/Issues](https://github.com/ToiletMC/Issues)

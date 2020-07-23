@@ -2,13 +2,10 @@
 
 {% hint style="success" %}
 ## 25 元/月：享受更多的游戏乐趣～
-
 {% endhint %}
 
 {% hint style="warning" %}
-
 ## 65 元/季：按季购买，优惠10元！
-
 {% endhint %}
 
 ## 尊贵的特权
