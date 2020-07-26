@@ -26,11 +26,11 @@ play.toiletmc.net
 be.toiletmc.net:20245
 ```
 
-{% hint style="danger" %}
+
 ### **登陆基岩版前你必须拥有JAVA正版，并且通过正版认证。**
 
 在使用基岩版登陆时，会要求输入JAVA正版账号和密码，然后进行数据互通。
-{% endhint %}
+
 
 ## 请求支援
 
@@ -42,9 +42,9 @@ be.toiletmc.net:20245
 * Discord：[https://discord.gg/dctX8ZQ](https://discord.gg/dctX8ZQ)
 * 邮件：[issue@toiletmc.net](mailto:issue@toiletmc.net)
 
-{% hint style="warning" %}
+
 ### 如果你需要直接提交游戏中的 Bug 请点击下面的链接提交。
 
 [https://github.com/ToiletMC/Issues](https://github.com/ToiletMC/Issues)
-{% endhint %}
+
 
