@@ -12,8 +12,6 @@ description: 欢迎来到一个奇怪的 Minecraft 服务器
 
 理论上你可以使用1.8以上版本的客户端进入游戏，但为了你能够更好地体验游戏最新内容，我们推荐你使用最新版本进入游戏。
 
-![Using Paper](.gitbook/assets/150.png)
-
 服务器版本：[PaperSpigot](https://papermc.io/) 1.16.1 **无正版验证**
 
 ### JAVA版
