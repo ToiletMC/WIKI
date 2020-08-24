@@ -4,6 +4,12 @@ description: 我对建筑颇有心得！
 
 # 建筑师
 
+{% hint style="success" %}
+这是我们新的建筑审核规则：[https://docs.qq.com/doc/DUFpUVnJrUXpHV09m](https://docs.qq.com/doc/DUFpUVnJrUXpHV09m)  
+如果你要申请审核，只需要联系 TheLittle\_Tao，然后静静等待 :D  
+特别感谢：YuLong，TheLittle\_Tao。
+{% endhint %}
+
 ## 初级建筑师
 
 ![](../../.gitbook/assets/build1.png)
