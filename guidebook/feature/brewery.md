@@ -213,6 +213,14 @@ description: 温两碗酒，要一碟茴香豆。
         <td style="text-align:center">&#xD7;</td>
         <td style="text-align:center">&#x77ED;/&#x4EFB;&#x4F55;</td>
     </tr>
+    <tr>
+      <td style="text-align:center">&#x6052;&#x6CB3;&#x6C34;</td>
+      <td style="text-align:center">13&#x7075;&#x9B42;&#x6C99;&#x3001;&#x4E00;&#x70B9;&#x9AA8;&#x7C89;&#x3001;&#x51E0;&#x4E2A;&#x58A8;&#x56CA;</td>
+      <td
+      style="text-align:center">6&#x5206;&#x949F;</td>
+        <td style="text-align:center">&#xFF1F;</td>
+        <td style="text-align:center">&#x9ED1;&#x6A61;&#x6728;</td>
+    </tr>
   </tbody>
 </table>
 
