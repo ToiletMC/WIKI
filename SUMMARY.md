@@ -34,9 +34,6 @@
 
 * [🛠️ 更新记录](operation/changelogs/README.md)
   * [2020年](operation/changelogs/2020.md)
-* [💸 收支明细](operation/revenue/README.md)
-  * [2020年](operation/revenue/2020.md)
-  * [2019年](operation/revenue/2019.md)
 * [🧻 关于](operation/about.md)
 
 ---
