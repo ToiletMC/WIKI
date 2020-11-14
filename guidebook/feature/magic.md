@@ -12,6 +12,10 @@ description: 你也可以随时喊出：阿瓦达索命！
 
 游戏内的魔法物件均可直接使用原生合成台进行合成，我们从官网上摘录下合成表内容为玩家提供便利。因未知原因官方合成表出现一些图标缺失，请见谅。
 
+{% hint style="danger" %}
+合成表已严重过期，请前往：[https://magic.elmakers.com/](https://magic.elmakers.com/)  查看！
+{% endhint %}
+
 ### 学徒套装
 
 {% tabs %}
