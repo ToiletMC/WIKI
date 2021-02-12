@@ -39,7 +39,7 @@ be.toiletmc.net:20441
 您可以在以下途径找到我们
 
 * QQ群：[720737548](https://jq.qq.com/?_wv=1027&k=0Nb6gZfJ)
-* Discord：[https://discord.gg/dctX8ZQ](https://discord.gg/dctX8ZQ)
+* Discord：[https://discord.gg/gVJ7WACvgP](https://discord.gg/gVJ7WACvgP)
 * 邮件：[issue@toiletmc.net](mailto:issue@toiletmc.net)
 
 {% hint style="warning" %}
